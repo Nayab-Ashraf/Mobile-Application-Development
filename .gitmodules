@@ -1,0 +1,3 @@
+[submodule "fitness-app"]
+	path = fitness-app
+	url = https://github.com/Nayab-Ashraf/fitness-app.git
